@@ -1,5 +1,5 @@
 # msxiaoiceapi
-[![Version](https://badge.fury.io/ph/kokororin%2Fmsxiaoice-php-api.svg)](https://packagist.org/packages/kokororin/kokororin/msxiaoice-php-api)
+[![Version](https://badge.fury.io/ph/kokororin%2Fmsxiaoice-php-api.svg)](https://packagist.org/packages/kokororin/msxiaoice-php-api)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg)](https://php.net/)
 
 PHP implement of [yanwii/msxiaoiceapi](https://github.com/yanwii/msxiaoiceapi)
