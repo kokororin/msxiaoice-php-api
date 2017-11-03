@@ -1,0 +1,20 @@
+{
+    "name": "kokororin/msxiaoice-php-api",
+    "description": "PHP implement of yanwii/msxiaoiceapi",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kokororin",
+            "email": "i@kotori.love"
+        }
+    ],
+    "autoload": {
+        "files": ["XiaoIceAPI.php"]
+    },
+    "require": {
+        "php": ">=5.6",
+        "guzzlehttp/guzzle": "~6.0",
+        "symfony/css-selector": "~2.8 | ~3.3",
+        "symfony/dom-crawler": "~2.8 | ~3.3"
+    }
+}
