@@ -56,7 +56,7 @@ class XiaoIceAPI
             }
 
         } catch (Exception $e) {
-            $this->dicts('fail', $e->getMessage());
+            return $this->dicts('fail', $e->getMessage());
         }
     }
 
